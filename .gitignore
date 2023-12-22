@@ -1,2 +1,5 @@
 # Rider IDE generate files.
 /.idea/
+
+# hugo generate files.
+/.hugo_build.lock
