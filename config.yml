@@ -52,7 +52,7 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Home"
+    text: "Nightails Blog"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
@@ -77,10 +77,6 @@ params:
     Content: Welcome to my blog
 
   socialIcons:
-    - name: twitter
-      url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
     - name: github
       url: "https://github.com/"
 
@@ -114,17 +110,17 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: categories
-      name: categories
-      url: /categories/
+    - identifier: archives
+      name: Archives
+      url: /archives/
       weight: 10
-    - identifier: tags
-      name: tags
-      url: /tags/
+    - identifier: categories
+      name: Categories
+      url: /categories/
       weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
+    - identifier: tags
+      name: Tags
+      url: /tags/
       weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
