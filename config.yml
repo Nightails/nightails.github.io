@@ -1,5 +1,5 @@
 baseURL: "https://nightails.github.io/"
-title: Nightails Blog
+title: Nightails
 paginate: 5
 theme: PaperMod
 
@@ -26,7 +26,7 @@ languages:
     menu:
       main:
         - name: Archive
-          url: archives
+          url: archives/
           weight: 5
         - name: Search
           url: search/
@@ -63,7 +63,9 @@ params:
     Content: >
       👋 Welcome to a_nightails' personal development blog!
       
-      - Where I post all of my game-development relate stuffs: coding, modeling, and general Unreal Engine tips.
+      - Where I post all of my game-development relate stuffs: **Coding**, **Modeling**, and **General UE** tips.
+      
+      - Feel free to leave your feedbacks in the comment section.
 
   socialIcons:
     - name: github
@@ -79,9 +81,3 @@ markup:
       unsafe: true
   highlight:
     noClasses: false
-
-services:
-  instagram:
-    disableInlineCSS: true
-  twitter:
-    disableInlineCSS: true
