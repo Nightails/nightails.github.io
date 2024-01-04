@@ -1,8 +1,7 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
-description: "Desc Text."
-
-author: "a_nightails"
+summary: "Desc Text."
 date: {{ .Date }}
 tags: "untagged"
+author: "a_nightails"
 ---
