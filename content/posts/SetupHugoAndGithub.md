@@ -6,8 +6,6 @@ tags:
   - web development
   - tutorial
 author: "a_nightails"
-
-draft: true
 ---
 ## Prerequisite
 
@@ -34,4 +32,12 @@ For the name of the repository:
 - If you already have a domain purchased, then name however you want. The domain can be linked to the repository later.
 - If you intent to use the `github.io` domain, then name it with this scheme `username.github.io`. Visit [Github Pages](https://pages.github.com/) for more info.
 
+### Hugo Installation
+For Windows and MacOS, follow the [official instruction](https://gohugo.io/installation/).
 
+For Linux, depend on distro, installation from the distro's package manager would be enough.
+But in some case, Fedora for instance, the included package is out of dated.
+Therefore, I recommend installing Hugo via [Snap](https://snapcraft.io/hugo).
+
+## Getting Start 🚀
+First, create an empty project folder at a directory of your choice.
