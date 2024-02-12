@@ -18,7 +18,7 @@ For this week, I have some notes relate to the `UActorComponent` and `UMaterialI
 force the component to update in the next frame. Set variable directly will only work during construction.
  - To create a `UMaterialInstanceDynamic` use the static function `UMaterialInstanceDynamic::Create(Material, UObject);`
    - Parameter: Material -> the parent material that need to be converted to instance dynamic.
-   - Parameter: UObject -> the world object in the game, use this `keyword` is sufficient.
+   - Parameter: UObject -> the world object in the game, use `this` keyword is sufficient.
  - To have `UPROPERTY` be placed in a specific spot in the detail panel, use `DisplayPriority` or `DisplayAfter` in `meta` specifier.
  - To initialize an empty array of given type and given size, use `Array.Init({}, size);`
    - `{}` also work for passing an empty parameter, not pointer.
