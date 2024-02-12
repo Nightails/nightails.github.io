@@ -6,8 +6,9 @@ tags:
   - web development
   - tutorial
 author: "a_nightails"
+draft: true
 ---
-## Prerequisite
+## Prerequisite ⚒️
 
  - [Git](https://git-scm.com/) - version control.
  - [Github](https://github.com/) - for hosting.
