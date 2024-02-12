@@ -71,6 +71,9 @@ params:
     - name: github
       title: Github Profile
       url: "https://github.com/Nightails"
+    - name: bluesky
+      title: Bluesky Social
+      url: "https://bsky.app/profile/nightails.bsky.social"
 
   assets:
     disableHLJS: true
