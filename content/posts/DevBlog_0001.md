@@ -1,5 +1,5 @@
 ---
-title: "DevBlog_0001"
+title: "Development Blog #0001"
 summary: "Development blog as of June 13, 2024"
 date: 2024-06-13T18:49:55-05:00
 tags: 
