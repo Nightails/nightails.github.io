@@ -12,6 +12,10 @@ Welcome to my second development note. This one is focusing on a particular issu
 Linux, and possibly Windows due to telemetry.
 
 ## Note 📝
-Currently, UE5.4 editor will be stuttering on start-up and possibly crash. To fix this, **DISABLE** the `StudioTelemetry`
-plugin. Add this part to the `*.uproject` if the editor is too lagged and unresponsive:
+Currently, UE5.4 editor will be stuttering on start-up and possibly crash.
+
+To fix this, **DISABLE** the `StudioTelemetry`plugin.
+
+Add this part to the `*.uproject` if the editor is too lagged and unresponsive:
+
 `{ "Name": "StudioTelemetry", "Enabled": false }`
