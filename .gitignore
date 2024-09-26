@@ -3,3 +3,4 @@
 
 # hugo generate files.
 /.hugo_build.lock
+public/

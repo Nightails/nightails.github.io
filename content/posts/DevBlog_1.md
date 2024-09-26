@@ -1,15 +1,15 @@
 ---
-title: "Development Blog #0001"
+title: "Development Blog #1"
 summary: "Development blog as of June 13, 2024"
 date: 2024-06-13T18:49:55-05:00
-tags: 
+tags:
   - dev blog
   - unreal engine
 author: "a_nightails"
 ---
 
 ## Introduction 👋
-Welcome to dev-log number #0001. This blog document development progress so far, as of 06-13-2024, for project Witched Iron.
+Welcome to dev-log number #1. This blog document development progress so far, as of 06-13-2024, for project Witched Iron.
 
 ## Project Witched Iron 🦹🏽‍♀️
 A little bit about Witched Iron. This is a first-person shooter being developed in Unreal Engine 5, by a single person... me! :)
@@ -24,4 +24,3 @@ At the current stage, the project can be packaged in Linux and launch via Steam.
 * Procedural animations for aiming and shooting are working, but still need reload and switching weapon animations.
 
 For visual representation, visit this YouTube link: https://youtu.be/5RvCudefXqw?si=LUaSct0u7GMt-CTh
-

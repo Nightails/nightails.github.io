@@ -1,5 +1,5 @@
 ---
-title: "Development Note #0002"
+title: "Development Note #2"
 summary: "Fix stuttering issue with Unreal Engine 5.4, as of July 2024."
 date: 2024-07-24T22:43:50-05:00
 tags:
